@@ -1,0 +1,26 @@
+body {
+    font-family: 'Cambria';
+    margin: auto;
+    width: 60%;
+}
+
+#byline {
+    font-weight:600;
+    font-size: 0.9em;
+    padding-top: 3%;
+}
+
+#subhead {
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+
+
+@media (orientation: portrait) {
+    body {
+        width: 95%;
+        margin: auto;
+        font-family: 'Cambria';
+    }
+}
