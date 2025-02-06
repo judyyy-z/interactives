@@ -7,7 +7,9 @@
 }
 
 #byline {
-    padding-bottom: 10%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    font-weight:550;
 }
 
 #cutline {
@@ -18,8 +20,7 @@
 
 #subhead {
     font-style: italic;
-    padding-bottom: 10%;
-
+    font-size:1.2em;
 }   
 
 

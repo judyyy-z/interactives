@@ -2,6 +2,7 @@ body {
     font-family: 'Cambria';
     margin: auto;
     width: 60%;
+    font-size: 1.1em;
 }
 
 #byline {
@@ -12,10 +13,9 @@ body {
 
 #subhead {
     font-style: italic;
-    font-size: 1.1em;
+    font-size: 1.2em;
+
 }
-
-
 
 @media (orientation: portrait) {
     body {
